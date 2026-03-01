@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\bin\Debug\Calculator-Test-0.1.exe.config
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\bin\Debug\Calculator-Test-0.1.exe
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\bin\Debug\Calculator-Test-0.1.pdb
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\obj\Debug\Calculator-Test-0.1.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\obj\Debug\Calculator_Test_0._1.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\obj\Debug\Calculator-Test-0.1.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\obj\Debug\Calculator-Test-0.1.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\obj\Debug\Calculator-Test-0.1.exe
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\obj\Debug\Calculator-Test-0.1.pdb
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\Calculator-Test-0.1\Calculator-Test-0.1\obj\Debug\Calculator_Test_0._1.SharpCalculator.resources
